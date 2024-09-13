@@ -1,0 +1,3 @@
+C:/Users/Gabriel/Downloads/analise-lexica_compiladores/cmake-build-debug/CMakeFiles/analise_lexica_compiladores.dir
+C:/Users/Gabriel/Downloads/analise-lexica_compiladores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriel/Downloads/analise-lexica_compiladores/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,52 @@
+	1: Reserved word: inteiro
+	1: ID, name= i
+	1: ;
+	3: Reserved word: ler
+	3: (
+	3: ID, name= i
+	3: )
+	3: ;
+	5: Reserved word: se
+	5: ID, name= i
+	5: >
+	5: NUM, value= 19
+	6: Reserved word: entao
+	7: Reserved word: se
+	7: ID, name= i
+	7: <
+	7: NUM, value= 30
+	8: Reserved word: entao
+	9: Reserved word: mostrar
+	9: (
+	9: NUM, value= 25
+	9: )
+	9: ;
+	10: Reserved word: senao
+	11: Reserved word: mostrar
+	11: (
+	11: NUM, value= 35
+	11: )
+	11: ;
+	12: Reserved word: senao
+	13: Reserved word: se
+	13: ID, name= i
+	13: <
+	13: NUM, value= 10
+	14: Reserved word: entao
+	15: Reserved word: mostrar
+	15: (
+	15: NUM, value= 5
+	15: )
+	15: ;
+	16: Reserved word: senao
+	17: Reserved word: mostrar
+	17: (
+	17: NUM, value= 15
+	17: )
+	17: ;
+	18: Reserved word: mostrar
+	18: (
+	18: NUM, value= -1
+	18: )
+	18: ;
+	19: EOF
